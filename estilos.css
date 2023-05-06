@@ -1,0 +1,33 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+.encabezado {
+    background: rgba(207, 136, 204, 0.993);
+    color: white;
+    text-align: center;
+    padding: 30px;
+  
+}
+.dato-item {
+    border-bottom: black;
+}
+.pie{
+    text-align: center;
+    background: rgba(207, 136, 204, 0.993);
+    color: white;
+    padding: 30px;
+}
+.cuerpo{
+   
+    background: rgba(207, 136, 204, 0.993);
+    text-align: center;
+   
+}
+.img {
+    text-align: center;
+    background: rgba(207, 136, 204, 0.993);
+}
